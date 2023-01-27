@@ -1,17 +1,17 @@
 {
-    "name": "laravel-enso/track-who",
+    "name": "cgdsoftware/track-who",
     "description": "Create, update and delete authoring tracking dependency for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "cgdsoftware",
         "track-who"
     ],
-    "homepage": "https://github.com/laravel-enso/track-who",
+    "homepage": "https://github.com/cgdsoftware/track-who",
     "type": "library",
     "license": "MIT",
     "authors": [{
         "name": "Adrian Ocneanu",
         "email": "aocneanu@gmail.com",
-        "homepage": "https://laravel-enso.com",
+        "homepage": "https://cgdsoftware.com",
         "role": "Developer"
     }],
     "require": {

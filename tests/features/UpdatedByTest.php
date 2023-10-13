@@ -4,7 +4,7 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Schema;
-use LaravelEnso\TrackWho\Traits\UpdatedBy;
+use LaravelLiberu\TrackWho\Traits\UpdatedBy;
 use Tests\TestCase;
 
 class UpdatedByTest extends TestCase

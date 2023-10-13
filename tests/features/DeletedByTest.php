@@ -5,7 +5,7 @@ use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Schema;
-use LaravelEnso\TrackWho\Traits\DeletedBy;
+use LaravelLiberu\TrackWho\Traits\DeletedBy;
 use Tests\TestCase;
 
 class DeletedByTest extends TestCase
